@@ -1,0 +1,11 @@
+opencv-python==4.11.0.86          # for webcam input
+mediapipe==0.10.21                # for hand tracking
+PyAutoGUI==0.9.54                 # for keyboard/mouse control
+pillow==11.2.1                    # required by PyAutoGUI
+PyGetWindow==0.0.9                # required by PyAutoGUI
+PyMsgBox==1.0.9                   # required by PyAutoGUI
+PyRect==0.2.0                     # required by PyAutoGUI
+MouseInfo==0.1.3                  # required by PyAutoGUI
+pyperclip==1.9.0                  # used internally by PyAutoGUI
+pytweening==1.2.0                 # for smooth GUI transitions
+

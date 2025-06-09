@@ -9,9 +9,9 @@
 *demo soon*
 ---
 ```
-### ⚠️ Demo Notice
+#### ⚠️ please note
 
-..so this project is a demo only,  not a commercial product and is just created for experimental purposes.
+..so this project is a demo only,  not a product; and is created just for experimenting.
 
 - designed for the web version of among us
 - crewmate tasks require mouse interactions, which are not currently supported by this gesture system.
@@ -63,7 +63,7 @@
 
 | Class | Performance |
 |-------|-------------|
-| ✅ Perfect (26/28) | A, C, D, E, F, G, H, I, J, K, L, O, P, Q, R, S, T, U, V, X, Y, Z, SPACE, ENTER |
+| ✅ Perfect (24/28) | A, C, D, E, F, G, H, I, J, K, L, O, P, Q, R, S, T, U, V, X, Y, Z, SPACE, ENTER |
 | ⚠️ slight drop | M (F1 = 0.97), N (Precision = 0.94), W (Recall = 0.97) |
 
 ![ASL Letter Confusion Matrix](visuals/ASL_letter_Confusion_Matrix.png)  
@@ -79,8 +79,8 @@
 - extracts 63 features per frame (21 landmarks × 3 coordinates)  
 
 ### 🧠 Gesture Prediction
-- Preprocesses input via `StandardScaler`  
-- Predicts gesture using pre-trained `MLPClassifier`  
+- preprocesses input via `StandardScaler`  
+- predicts gesture using pre-trained `MLPClassifier`  
 - adds debounce logic and cooldown timers to prevent misclassification  
 
 ### 🕹️ Joystick Control

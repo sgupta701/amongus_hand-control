@@ -52,7 +52,7 @@
 
 ### 🧪 Training Results
 - **Test Samples Evaluated**: 1,028  
-- **Accuracy**: `100%`  
+- **Accuracy**: `98%`  
 - **Macro F1-Score**: `1.00`  
 - **Weighted F1-Score**: `1.00`  
 

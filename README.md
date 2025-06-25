@@ -4,20 +4,6 @@
 
 ---
 
-## 📽️ Demo  
-```
-*demo soon*
----
-```
-#### ⚠️ please note
-
-..so this project is a demo only,  not a product; and is created just for experimenting.
-
-- designed for the web version of among us
-- crewmate tasks require mouse interactions, which are not currently supported by this gesture system.
-- this system is optimized for movement and action controls (e.g., walking, venting, killing, reporting, typing).
-
-
 ## Features  
 ```
 - ✅ real-time ASL gesture recognition (28 gestures - 26 alphabets(standard ASL) + space(custom) + enter(custom)) 
@@ -31,6 +17,16 @@
   - `ENTER` → Report meeting  
   - `F` → Toggle Joystick on/off  
 ```
+---
+
+## 📽️ Demo  
+
+Watch it in action:
+
+▶️ [LinkedIn demo post](https://www.linkedin.com/posts/saumya-gupta-4385452a4_opencv-amongus-mediapipe-activity-7338291179605630976-AwcK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEloJCwBPPaMNpyq0mm_XSFMSNrM7BK6LVE)
+
+📁 [Google Drive video folder](https://drive.google.com/drive/folders/1jppYxLMYDGygf4AumggTf-Fpdl5L1-H4?usp=drive_link)
+
 ---
 
 ## ASL Gesture Recognition Model  
@@ -52,7 +48,7 @@
 
 ### 🧪 Training Results
 - **Test Samples Evaluated**: 1,028  
-- **Accuracy**: `100%`  
+- **Accuracy**: `98%`  
 - **Macro F1-Score**: `1.00`  
 - **Weighted F1-Score**: `1.00`  
 
@@ -123,6 +119,16 @@ amongus_hand_control/
 ├── venv
 ├── .gitignore
 ```
+
+---
+
+#### ⚠️ please note
+
+..so this project is a demo only,  not a product; and is created just for experimenting.
+
+- designed for the web version of among us
+- crewmate tasks require mouse interactions, which are not currently supported by this gesture system.
+- this system is optimized for movement and action controls (e.g., walking, venting, killing, reporting, typing).
 
 ---
 

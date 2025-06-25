@@ -177,8 +177,7 @@ while True:
     # UI Feedback
     if predicted_label:
         cv2.putText(img, f"Gesture: {predicted_label}", (10, 60),
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 255), 2)
-
+                    cv2.FONT_HERSHEY_SIMPLEX,1.2 , (0, 255, 255), 2)
     joystick_text = "Joystick: ON" if joystick_enabled else "Joystick: LOCKED"
     cv2.putText(img, joystick_text, (10, h - 10),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.7, (200, 200, 200), 2)

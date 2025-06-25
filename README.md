@@ -12,6 +12,8 @@ Watch NEURA in action:
 
 📁 [Google Drive video folder](https://drive.google.com/drive/folders/1jppYxLMYDGygf4AumggTf-Fpdl5L1-H4?usp=drive_link)
 
+---
+
 #### ⚠️ please note
 
 ..so this project is a demo only,  not a product; and is created just for experimenting.

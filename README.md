@@ -21,7 +21,7 @@
 
 ## 📽️ Demo  
 
-Watch NEURA in action:
+Watch it in action:
 
 ▶️ [LinkedIn demo post](https://www.linkedin.com/posts/saumya-gupta-4385452a4_opencv-amongus-mediapipe-activity-7338291179605630976-AwcK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEloJCwBPPaMNpyq0mm_XSFMSNrM7BK6LVE)
 

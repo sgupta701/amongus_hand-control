@@ -5,17 +5,13 @@
 ---
 
 ## 📽️ Demo  
-```
-## 📽️ Demo
 
 Watch NEURA in action:
 
 ▶️ [LinkedIn demo post](https://www.linkedin.com/posts/saumya-gupta-4385452a4_opencv-amongus-mediapipe-activity-7338291179605630976-AwcK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEloJCwBPPaMNpyq0mm_XSFMSNrM7BK6LVE)
 
-📁 [Google Drive video folder](https://drive.google.com/drive/folders/1jppYxLMYDGygf4AumggTf-Fpdl5L1-H4?usp=sharing)
+📁 [Google Drive video folder](https://drive.google.com/drive/folders/1jppYxLMYDGygf4AumggTf-Fpdl5L1-H4?usp=drive_link)
 
-
-```
 #### ⚠️ please note
 
 ..so this project is a demo only,  not a product; and is created just for experimenting.

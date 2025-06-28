@@ -76,7 +76,7 @@ Watch it in action:
 
 ### 🧠 Gesture Prediction
 - preprocesses input via `StandardScaler`  
-- predicts gesture using pre-trained `MLPClassifier`  
+- predicts gesture using pre-trained `MLPClassifier`   
 - adds debounce logic and cooldown timers to prevent misclassification  
 
 ### 🕹️ Joystick Control

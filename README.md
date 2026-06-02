@@ -1,6 +1,6 @@
 # Hand Gesture Control for movements and chats in Among Us using standard American Sign Language(ASL) Alphabets 
 
-> Control *Among Us* with hand gestures using real-time webcam input and a custom-trained ASL Alphabets classifier (trained on MLP, with 5138 samples captured by me).
+> Control *Among Us* with hand gestures using real-time webcam input and a custom-trained ASL Alphabets classifier (trained on MLP, with 5138 samples captured by me). 
 
 ---
 
